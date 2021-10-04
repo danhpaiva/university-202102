@@ -22,8 +22,8 @@
 
 <h2 id=objective>📜 Objective</h2>
 
-This repository was prepared to keep backups of activities carried out in classes.
-In it we will save from slides, pdf's and what we deem important.
+This repository was prepared to keep backups of activities carried out in classes.<br>
+In it we will save from slides, pdf's and what we deem important.<br>
 Everything related to the second half of the year 2021.
 
 <h2 id=installation>☑️ Installation</h2>
