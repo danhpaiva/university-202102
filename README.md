@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="#">
-    <img src="images/logo.jpeg" width="200" alt="UNA">
+    <img src="images/logo.jpeg" width="250" alt="UNA">
   </a>
 </p>
 <p align="center">
-    Application to manage your gym
+    University Files Backup
 </p>
 
 <p align="center">
