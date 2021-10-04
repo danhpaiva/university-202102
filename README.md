@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="#">
-    <img src="images/logo.jpeg" width="200" alt="UNA">
+    <img src="images/logo.jpeg" width="250" alt="UNA">
   </a>
 </p>
 <p align="center">
-    Application to manage your gym
+    University Files Backup
 </p>
 
 <p align="center">
@@ -34,13 +34,7 @@ Everything related to the second half of the year 2021.
 <h2 id=technology>🧰 Technology</h2>
 The following tools were used in the construction of the project:
 
-- IDE: <a href="https://visualstudio.microsoft.com/pt-br/vs/">Visual Studio 2019</a>
-- Database: <a href="https://www.sqlite.org/index.html">SQLite</a>
-- SGBD: <a href="https://go.microsoft.com/fwlink/?linkid=2163435">SQLite Studio</a>
-- Styles: <a href="https://www.iconfinder.com/">IconFinder</a> |
-<a href="https://www.pexels.com/pt-br/">Pexels</a>
-- Requirement SDK: <a href="https://dotnet.microsoft.com/download/dotnet/5.0">.Net 5</a>
-- Lib: system.data.sqlite
+coming soon
 
 <h2 id=author>😎 Author</h2>
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/">Daniel Paiva</a>
