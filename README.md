@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
-    University Files Backup
+    University Files
 </p>
 
 <p align="center">
