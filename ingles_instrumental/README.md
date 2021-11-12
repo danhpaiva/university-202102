@@ -3,4 +3,4 @@
 <p>In classes we cover some dictionaries:</p>
 
 - [Oxford](https://www.oxfordlearnersdictionaries.com/us/)
-- [The Saurus]([https://www.thesaurus.com/])
+- [The Saurus](https://www.thesaurus.com/)
