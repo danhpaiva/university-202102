@@ -4,3 +4,4 @@
 
 - [Oxford](https://www.oxfordlearnersdictionaries.com/us/)
 - [The Saurus](https://www.thesaurus.com/)
+- [Cambridge](https://dictionary.cambridge.org/pt/)
