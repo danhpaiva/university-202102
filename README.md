@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="images/logo.jpeg" width="250" alt="UNA">
+    <img src="images/logo_una.png" width="250" alt="UNA">
   </a>
 </p>
 <p align="center">
