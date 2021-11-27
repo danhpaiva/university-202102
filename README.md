@@ -31,6 +31,9 @@ Everything related to the second half of the year 2021.
 1. Download the repository
 2. See the course folders:
 
+- ingles_instrumental
+- inovacao_sustent_empresarial
+
 <h2 id=technology>🧰 Technology</h2>
 The following tools were used in the construction of the project:
 
